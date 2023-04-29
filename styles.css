@@ -127,3 +127,28 @@ button {
     color: #1F2937;
     margin-top: 20px;
 }
+
+.cta-container {
+    padding: 40px 15%;
+    color: white;
+}
+
+.cta-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    background-color: #3882F6;
+    padding: 40px;
+    border-radius: 4px;
+}
+
+.cta-title {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.cta-button {
+    border: 2px solid white;
+    flex-shrink: 0;
+}
