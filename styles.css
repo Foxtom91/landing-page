@@ -45,7 +45,7 @@ button {
 
 .hero-content {
     background-color: #1F2937;
-    padding: 16px 10%;
+    padding: 16px 10% 80px 10%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -71,7 +71,7 @@ button {
 }
 
 .info-cards {
-    padding: 30px 10%;
+    padding: 40px 10%;
 }
 
 .info-title {
@@ -109,7 +109,7 @@ button {
 
 .quote-block {
     background-color: #E5E7EB;
-    padding: 30px 10%;
+    padding: 40px 20%;
 }
 
 .quote-content {
