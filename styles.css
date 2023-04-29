@@ -47,8 +47,10 @@ button {
     background-color: #1F2937;
     padding: 16px 10%;
     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
     align-items: center;
-    gap: 50px;
+    gap: 20px;
 }
 
 .hero-main-txt {
@@ -61,19 +63,9 @@ button {
 .hero-secondary-txt {
     font-size: 18px;
     color: #E5E7EB;
-    margin-bottom: 10px;
-}
-
-.img-top {
-    background-color: #E5E7EB;
-    height: 300px;
-    width: 600px;
-    flex-basis: 50%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    margin: 0 10px 20px 0;
 }
 
 .left-box {
-    flex-basis: 50%;
+    flex: 1 1 40%;
 }
