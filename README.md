@@ -8,3 +8,7 @@ Use of Git to commit changes to the GitHub repository is also demonstrated.
 
 IMAGE CREDITS
 "Genome Hero" Photo by Chokniti Khongchum from Pexels: https://www.pexels.com/photo/persona-in-possesso-di-pallone-da-laboratorio-2280571/
+Lab icons created by flatart_icons - Flaticon
+Scientific icons created by Freepik - Flaticon
+Lab icons created by surang - Flaticon
+Equipment icons created by Eucalyp - Flaticon

@@ -69,3 +69,61 @@ button {
 .left-box {
     flex: 1 1 40%;
 }
+
+.info-cards {
+    padding: 30px 10%;
+}
+
+.info-title {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+    color: #1F2937;
+    margin-bottom: 30px;
+}
+
+.cards-container {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    flex-wrap: wrap;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    flex: 0;
+}
+
+.card-txt {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.card-img {
+    border: 4px solid #3882F6;
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+.quote-block {
+    background-color: #E5E7EB;
+    padding: 30px 10%;
+}
+
+.quote-content {
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 300;
+    line-height: 1.5;
+}
+
+.quote-author {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 18px;
+    font-weight: 700;
+    color: #1F2937;
+    margin-top: 20px;
+}
